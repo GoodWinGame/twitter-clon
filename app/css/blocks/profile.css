@@ -1,0 +1,7 @@
+.profile-background {
+  height: 120px;
+  background-image: url(../img/Фон капли на стекле.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
